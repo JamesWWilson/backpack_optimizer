@@ -1,0 +1,10 @@
+﻿item_id,item_name,link,brand,review_cnt,avg_rating,low_price,high_price,weight_lbs,volume_L,temp,type,sleeping_bag,backpack,tent
+162948,NEMO Forte 20 Sleeping Bag - Men's,https://www.rei.com/product/162948/nemo-forte-20-sleeping-bag-mens,NEMO,156,4.3,149.89,164.89,2.875,9,20,Sleeping Bag,1,0,0
+157769,REI Co-op Trailbreak 20 Sleeping Bag - Men's,https://www.rei.com/product/157769/rei-co-op-trailbreak-20-sleeping-bag-mens,REI,112,4.5,64.93,109,3.4375,12,20,Sleeping Bag,1,0,0
+218408,Big Agnes Torchlight Camp 20 Sleeping Bag - Men's,https://www.rei.com/rei-garage/product/218408/big-agnes-torchlight-camp-20-sleeping-bag-mens,Big Agnes,5,4.6,134.73 ,179.95,3.0625,9.3,20,Sleeping Bag,1,0,0
+168251,REI Co-op Trailbreak 60 Pack - Men's,https://www.rei.com/product/168251/rei-co-op-trailbreak-60-pack-mens,REI,53,4.5,149,149,3.8125,60,NA,Backpacking Packs,0,1,0
+201301,Osprey Atmos AG 50 Pack - Men's,https://www.rei.com/product/201301/osprey-atmos-ag-50-pack-mens,Osprey,7,4.1,300,300,4.3125,50,NA,Backpacking Packs,0,1,0
+177493,Osprey Aether 65 Pack - Men's,https://www.rei.com/product/177493/osprey-aether-65-pack-mens,Osprey,43,4.3,315,315,5.125,65,NA,Backpacking Packs,0,1,0
+147862,REI Co-op Quarter Dome SL 1 Tent,https://www.rei.com/product/147862/rei-co-op-quarter-dome-sl-1-tent,REI,142,4.4,229.93,329,2.375,NA,NA,Tent,0,0,1
+168431,REI Co-op Passage 1 Tent with Footprint,https://www.rei.com/product/168431/rei-co-op-passage-1-tent-with-footprint,REI,82,4.4,96.93,139,4.625,NA,NA,Tent,0,0,1
+188351,Big Agnes Tiger Wall UL 1 Solution-Dyed Tent,https://www.rei.com/product/188351/big-agnes-tiger-wall-ul-1-solution-dyed-tent,Big Agnes,7,4.3,399.95,399.95,2.125,NA,NA,Tent,0,0,1

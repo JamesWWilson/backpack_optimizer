@@ -1,0 +1,32 @@
+How to Optimize your gear
+
+Input Variables to model 
+•	Gender
+•	Weight limit (use body weight for pseudo) 
+•	Price limit 
+•	Average star rating 
+
+Additional Variables:
+•	Height
+•	Expected Temperature (could pseudo code location and dates) 
+
+Outputs:
+•	Backpack 
+•	Tent
+•	Pad
+•	Bag (enter details if no assumed bag)
+
+
+Assume X Weight for clothes 
+•	basic flask that outputs basic result
+•	simple model with minimum data
+•	showcase distributions of prices to pack size and gear 
+•	Can we predict / classify gear? Segment into groups? How are manufacturers? 
+
+
+APP IDEA: “strava for backpacking”
+Create a central place for reviews of gear and time(s) used to capture durability and tracking what you do and don’t own. 
+
+
+
+
